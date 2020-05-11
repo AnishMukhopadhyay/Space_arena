@@ -1,11 +1,7 @@
 # Space Arena!
-# Python 3.x Compatible
-# Windows, MacOSX, and Linux Compatible
-# by @TokyoEdTech
-# Blog: https://www.christianthompson.com
-# YouTube Channel: https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg/
+# Python 3
+# by Anish Mukhopadhyay
 
-import turtle
 import math
 import random
 import time
